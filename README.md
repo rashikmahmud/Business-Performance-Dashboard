@@ -12,37 +12,32 @@
 
 This interactive Power BI dashboard designed to provide decision-makers with a comprehensive view of business performance. The dashboard combines four high-impact reports into a single user-friendly interface, offering actionable insights for growth and efficiency.
 
----
-
 ## 📁 Dashboard Sections
 
 ### 1️⃣ Profit Analysis
 - Visualizes revenue, cost, and margin trends
 - Highlights key profit drivers and loss areas
-- YTD, MTD comparisons with budget benchmarks
+- YTD, MTD comparisons with budget benchmarks  
+![Profit Analysis](https://github.com/rashikmahmud/Business-Performance-Dashboard/blob/f0ada846dfbc54f654b958c640d288c7f7f853f3/Images/Profit%20Analysis.png)
 
 ### 2️⃣ Sales Performance
 - Tracks sales KPIs across regions and time
 - Compares actuals vs targets
-- Identifies top-performing channels and reps
+- Identifies top-performing channels and reps  
+![Sales Performance](https://github.com/rashikmahmud/Business-Performance-Dashboard/blob/f0ada846dfbc54f654b958c640d288c7f7f853f3/Images/Sales%20Performance.png)
 
 ### 3️⃣ Product Performance
 - Analyzes individual product line performance
 - Sorts by revenue contribution and growth rate
-- Pinpoints underperformers for strategic action
+- Pinpoints underperformers for strategic action  
+![Product Performance](https://github.com/rashikmahmud/Business-Performance-Dashboard/blob/f0ada846dfbc54f654b958c640d288c7f7f853f3/Images/Product%20Performance.png)
 
 ### 4️⃣ Customer Insight
 - Segments customers by behavior and value
 - Tracks retention, churn, and acquisition
-- Helps personalize marketing and sales focus
+- Helps personalize marketing and sales focus  
+![Customer Insight](https://github.com/rashikmahmud/Business-Performance-Dashboard/blob/f0ada846dfbc54f654b958c640d288c7f7f853f3/Images/Customer%20Insgihts.png)
 
----
-
-## 📷 Dashboard Preview
-
-> 📌 *Include a few screenshots or a .gif walkthrough of your dashboard here*
-
----
 
 ## 🚀 Features
 
@@ -64,7 +59,7 @@ This interactive Power BI dashboard designed to provide decision-makers with a c
 
 ## 📈 Use Cases
 
-- C-Suite and Management Reporting
+- Management Reporting
 - Sales and Product Performance Reviews
 - Customer Retention Strategy
 - Data-Driven Decision Making
